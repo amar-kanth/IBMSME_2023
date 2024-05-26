@@ -1,2 +1,2 @@
 # IBMSME_2023
-I learn social analysis basics
+I learned social analysis basics
